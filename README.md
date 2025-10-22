@@ -2,24 +2,42 @@
 ## 目录
 ### tazige
 [手撕神经网络！9月3日华为秋招AI方向机考真题分享](https://mp.weixin.qq.com/s?__biz=Mzg4MjkwNzQzNA==&mid=2247520055&idx=1&sn=61699b2d87702abe8de942ceb604d2a1&chksm=cf4d4f72f83ac664089c04c9d1911a73e0838a9dccf8265406630800cf7be3fe56e521301e36&cur_album_id=4210983242528456716&scene=190#rd)
+
 [难度不大，9月4日华为留学生秋招AI方向机考真题分享](https://mp.weixin.qq.com/s?__biz=Mzg4MjkwNzQzNA==&mid=2247520128&idx=1&sn=2c660e46e3345ce889fb5cead5e03e77&chksm=cf4d4fc5f83ac6d30a7842a0c2d4d77a1957e7dee35570290ecce1a5fa574c72674067026120&cur_album_id=4210983242528456716&scene=190#rd)
+
 [华为 AI 专项模拟周赛（9·5）| 题面 + 题解全解析](https://mp.weixin.qq.com/s?__biz=Mzg4MjkwNzQzNA==&mid=2247520217&idx=3&sn=79e5dfe983a89f5581753cf5702a99d6&chksm=cf4d4f9cf83ac68a7f4fdfa8402488b9df5d5e6c865873c46f5f89e9d7a72939f40768e82b5a&cur_album_id=4210983242528456716&scene=190#rd)
+
 [噩梦难度！9月10日华为 AI 秋招机考|最新笔试真题+解析](https://mp.weixin.qq.com/s?__biz=Mzg4MjkwNzQzNA==&mid=2247520517&idx=1&sn=e5568e5fc88da6d0b2d20da615d72019&chksm=cf4d5140f83ad856e98650acec72932f76c3bdf8ca6cf1e3a025982514a76d37742c23e7fb86&cur_album_id=4210983242528456716&scene=190#rd)
+
 [大捡漏！9月17日华为AI方向秋招机考分享](https://mp.weixin.qq.com/s?__biz=Mzg4MjkwNzQzNA==&mid=2247521171&idx=1&sn=de9f58774d0413410a8c2fcc3d2411fd&chksm=cf4d53d6f83adac0352cf896026066598b5cc0766debd9df3bff4b62938c6eb1589a56fa8b23&cur_album_id=4210983242528456716&scene=190#rd)
+
 [难度骤增，9月18日华为(留学生)AI方向秋招机考分享](https://mp.weixin.qq.com/s?__biz=Mzg4MjkwNzQzNA==&mid=2247521243&idx=1&sn=0e90e5d6e9c9084f5440d641d5b1303d&chksm=cf4d539ef83ada88befd4f1b3533b8d5262d51104d3ed95aae739903afb2ffbb65dcace7f9ee&cur_album_id=4210983242528456716&scene=190#rd)
+
 [难度陡增！9月24日华为AI方向秋招机考分享](https://mp.weixin.qq.com/s?__biz=Mzg4MjkwNzQzNA==&mid=2247521670&idx=1&sn=5080f77d5e08c7a58243d2992967c0e8&chksm=cf4d55c3f83adcd551c3e2725fc15d5964347212ddce7f82e241e0b1350ec31cdcc00a31550f&cur_album_id=4210983242528456716&scene=190#rd)
+
 [手撕Transformer！9月28日华为AI方向秋招机考最新笔试真题与解析](https://mp.weixin.qq.com/s?__biz=Mzg4MjkwNzQzNA==&mid=2247521937&idx=1&sn=0c2adade48a08b73272fdf5530307e48&chksm=cf4d56d4f83adfc2737df8057ad17ba2ee546d6cd4adc192c368720c16a41597f65575077418&cur_album_id=4210983242528456716&scene=190#rd)
+
 [难度适中！10月10日华为AI(留学生)方向秋招机考最新笔试真题与解析](https://mp.weixin.qq.com/s?__biz=Mzg4MjkwNzQzNA==&mid=2247522103&idx=1&sn=ea1cedea52e05df44daa05457a011ddb&chksm=cf4d5772f83ade64af2607c5bf6257fb00b13d81ee5e61fb039058f505894f2e4b517bea63b6&cur_album_id=4210983242528456716&scene=190#rd)
+
 [手撕LSTM！华为AI方向10月10日秋招机考最新笔试真题与解析](https://mp.weixin.qq.com/s?__biz=Mzg4MjkwNzQzNA==&mid=2247522156&idx=1&sn=fe8d23cf0c074c3ef6c8ca91928f7a6f&chksm=cf4d5729f83ade3fa18857470afa6a606c048f6cd92219a50e948d09cee1db1c1ced2252cd29&cur_album_id=4210983242528456716&scene=190#rd)
+
 [力扣无用论？华为AI方向10月15日秋招机考最新笔试题与解析](https://mp.weixin.qq.com/s/hG-hKxlk3UhO9pMsVVCybg)
+
 [大放水！华为AI方向10月17日秋招机考最新笔试题与解析](https://mp.weixin.qq.com/s?__biz=Mzg4MjkwNzQzNA==&mid=2247522838&idx=1&sn=8da191e089ae29281d9f2935214f96a8&chksm=cf4d5a53f83ad345227d566a4ecd231462a8cac7a876e273426a0c785a96078d39f16466aabd&cur_album_id=4210983242528456716&scene=190#rd)
 ### wannuo
+
 [华为ai机考，中等难度！（1017秋招笔试真题解析）](https://mp.weixin.qq.com/s/xjWqyl0ZQmzXWNNsgwHdPw)
+
 [华为ai机考，难度也不大！（1015秋招笔试真题解析）](https://mp.weixin.qq.com/s?__biz=MzkyNTQ3NDAzNw==&mid=2247495193&idx=2&sn=44c17ea38f6b524d7c306a2aa7b71e7b&chksm=c1c4a383f6b32a95a7675bb06490c62046cf6a22ce8f48e8bc288dd8efc961c191db1fc8bf51&cur_album_id=2887532371707805701&scene=190#rd)
+
 [华为ai机考，有点难度（1010秋招笔试真题解析）](https://mp.weixin.qq.com/s?__biz=MzkyNTQ3NDAzNw==&mid=2247495021&idx=2&sn=2605cb62694a7d6efa8ee1eba0757d7c&chksm=c1c4a0f7f6b329e13425e0788d0902b2f3f3c83efc919c9aa0413cf9db1b935c9fa598e6e9a0&cur_album_id=2887532371707805701&scene=190#rd)
+
 [华为AI方向机考：我难度也大，你也忍一下（0928秋招笔试真题解析）](https://mp.weixin.qq.com/s?__biz=MzkyNTQ3NDAzNw==&mid=2247494945&idx=2&sn=3eb012998ae066db96dfc0cbabccfa5e&chksm=c1c4a0bbf6b329ad657816417208ecf5b595272ff5ddff692299df167b0f130b79bf6cc16a76&cur_album_id=2887532371707805701&scene=190#rd)
+
 [华为ai岗笔试，中等难度！（0924秋招笔试真题解析）](https://mp.weixin.qq.com/s?__biz=MzkyNTQ3NDAzNw==&mid=2247494816&idx=2&sn=ae3333964baaaa46793b8274b9b44ce5&chksm=c1c4a13af6b3282c989bda6ea5369e5640c6a81ac80168165ba83f3319215c79157b07f5401d&cur_album_id=2887532371707805701&scene=190#rd)
+
 [华为ai机考，有难度！（0917秋招笔试真题解析）](https://mp.weixin.qq.com/s?__biz=MzkyNTQ3NDAzNw==&mid=2247494458&idx=2&sn=e60088d5096da3c63b2a6b3394a38645&chksm=c1c4a6a0f6b32fb65ccf783324d351c2c466e336db456f817a14dc8aec2eb79aef75a31295ff&cur_album_id=2887532371707805701&scene=190#rd)
+
 [华为AI笔试，有难度！（0910秋招笔试真题解析）](https://mp.weixin.qq.com/s?__biz=MzkyNTQ3NDAzNw==&mid=2247494183&idx=2&sn=5007076830ae3eba0a83b3fc2c660ab5&chksm=c1c4a7bdf6b32eabc409b0f678c3959efc2901801c73b554200c5a24fa826dddc7b3a7e588e6&cur_album_id=2887532371707805701&scene=190#rd)
 
 # 答案
